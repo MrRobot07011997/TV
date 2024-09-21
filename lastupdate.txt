@@ -1,0 +1,83 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="EPL 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/1/index.m3u8
+#EXTINF:-1 tvg-name="EPL 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/1/index.m3u8
+#EXTINF:-1 tvg-name="EPL 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/3/index.m3u8
+#EXTINF:-1 tvg-name="EPL 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/1/index.m3u8
+#EXTINF:-1 tvg-name="EPL 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/1/index.m3u8
+#EXTINF:-1 tvg-name="EPL 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/3/index.m3u8
+#EXTINF:-1 tvg-name="EPL 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-3-1820.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/4/index.m3u8
+#EXTINF:-1 tvg-name="EPL 4" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/5/index.m3u8
+#EXTINF:-1 tvg-name="EPL 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-5-1822.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/6/index.m3u8
+#EXTINF:-1 tvg-name="EPL 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/3/index.m3u8
+#EXTINF:-1 tvg-name="SPORT HD 2" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport2.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/10/index.m3u8
+#EXTINF:-1 tvg-name="EPL 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/1/index.m3u8
+#EXTINF:-1 tvg-name="EPL 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/1/index.m3u8
+#EXTINF:-1 tvg-name="EPL 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/1/index.m3u8
+#EXTINF:-1 tvg-name="EPL 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/1/index.m3u8
+#EXTINF:-1 tvg-name="EPL 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/3/index.m3u8
+#EXTINF:-1 tvg-name="BEIN 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-th-bein-sports-3-1079.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/8/index.m3u8
+#EXTINF:-1 tvg-name="BEIN 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-th-bein-sports-3-1079.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/8/index.m3u8
+#EXTINF:-1 tvg-name="BEIN 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-th-bein-sports-3-1079.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/8/index.m3u8
+#EXTINF:-1 tvg-name="BEIN 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-th-bein-sports-3-1079.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/8/index.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/103/index.m3u8
+#EXTINF:-1 tvg-name="BEIN MAX 5 FR" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-5-max-404.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/164/index.m3u8
+#EXTINF:-1 tvg-name="BEIN MAX 4 FR" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-4-max-403.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/185/index.m3u8
+#EXTINF:-1 tvg-name="BEIN MAX 6 FR" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-6-max-405.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/177/index.m3u8
+#EXTINF:-1 tvg-name="BEIN 3 TU" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/186/index.m3u8
+#EXTINF:-1 tvg-name="SAIM SPORT 2" tvg-logo="https://dookeela.live/uploads/1709380657.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/51/index.m3u8
+#EXTINF:-1 tvg-name="SIAM SPORT 3" tvg-logo="https://dookeela.live/uploads/1709380667.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/59/index.m3u8
+#EXTINF:-1 tvg-name="BEIN 2 TU" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tu-bein-sports-2-641.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/149/index.m3u8
+#EXTINF:-1 tvg-name="SKY SPORT 3 BUNDESIGA" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-bundesliga-3-1806.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/115/index.m3u8
+#EXTINF:-1 tvg-name="DIGI" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportdigital-167.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/23/index.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a645.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/40/index.m3u8
+#EXTINF:-1 tvg-name="11" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-11-1787.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/65/index.m3u8
+#EXTINF:-1 tvg-name="SPORTV" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportv-1239.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/57/index.m3u8
+#EXTINF:-1 tvg-name="ASTRO 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-astro-supersport-3-255.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/29/index.m3u8
+#EXTINF:-1 tvg-logo="https://footballdoofree.com/storage/images/channels/tv-station--1059.png.webp" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/83/index.m3u8
+#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://sines.live/ch/1.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/53/index.m3u8
+#EXTINF:-1 tvg-name="LIVE 2" tvg-logo="https://sines.live/ch/2.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/48/index.m3u8
+#EXTINF:-1 tvg-name="LIVE 5" tvg-logo="https://sines.live/ch/5.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/32/index.m3u8
+#EXTINF:-1 tvg-name="LIVE 3" tvg-logo="https://sines.live/ch/3.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/31/index.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/72/index.m3u8
+#EXTINF:-1 tvg-name="FS2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-us-fox-sports-2-61.png" group-title="Updated Latest", Original Link
+https://live444.xyz/stream/71/index.m3u8
