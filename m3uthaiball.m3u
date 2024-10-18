@@ -2005,3 +2005,6 @@ https://cdn2.aws-live-streaming.com/lsmscore/cnn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1715648168.png" group-title="GKKEELA",Sky Sports News | UK
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/skysportsnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ3MzkyMTQ0NV5BMl5BanBnXkFtZTgwNDkzNzg3MzE@._V1_.jpg" group-title="HINDI MOVIE",Sky Sports News | UK
+#EXTVLCOPT:http-referrer=http://server3.ftpbd.net/
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1991/Dancer%20%281991%29%201080p%20HDRip/Dancer%20-%20Full%20Movie%20in%20HD%20-%20Akshay%20Kumar%2C%20Kirti%20Singh.mp4
