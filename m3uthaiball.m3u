@@ -1,4 +1,104 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch1.webp" group-title="SPORTH TH",EPL 1
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist_w1770925598.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch2.webp" group-title="SPORTH TH", EPL 2
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch3.webp" group-title="SPORTH TH", EPL 3
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch4.webp" group-title="SPORTH TH", EPL 4
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch5.webp" group-title="SPORTH TH", EPL 5
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="SPORTH TH", BEIN TH 1
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/bein1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch7.png" group-title="SPORTH TH", BEIN TH 2
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/bein2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch8.png" group-title="SPORTH TH", BEIN TH 3
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/bein3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch9.png" group-title="SPORTH TH", ARENA 1
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/arena1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch10.png" group-title="SPORTH TH", ARENA 2
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/arena2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch11.png" group-title="SPORTH TH", ARENA 3
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/arena3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch12.png" group-title="SPORTH TH", ARENA 4
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/arena4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch13.png" group-title="SPORTH TH", SPORT TV 2
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/sport2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch14.png" group-title="SPORTH TH", SPORT TV 3
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/sport3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch1.webp" group-title="SPORTH TH",EPL 1 BK
+#EXTVLCOPT:http-referrer=https://dooball.tv/
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ballhd24liv_e1/trueepl1_480p/chunks.m3u8?nimblesessionid=132410353&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNCA5OjA0OjA4IEFNJmhhc2hfdmFsdWU9RE9wSjlmRG5CemZ2aitMaGpWUGVYQT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI4JmlkPWJnaHI1ODIyMTI=
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch2.webp" group-title="SPORTH TH",EPL 2 BK
+#EXTVLCOPT:http-referrer=https://dooball.tv/
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ballhd24liv_e1/trueepl2_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNCA5OjExOjEzIEFNJmhhc2hfdmFsdWU9eENrOU5IZldFSTk1TGtOT2F0WWlWUT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI4JmlkPWJnaHI3MTc1NTY=
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch3.webp" group-title="SPORTH TH",EPL 3 BK
+#EXTVLCOPT:http-referrer=https://dooball.tv/
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ballhd24liv_e1/trueepl3_480p/chunks.m3u8?nimblesessionid=132410378&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNCA5OjExOjQ3IEFNJmhhc2hfdmFsdWU9ZS9YNmNpKzF4c3E3eC9HYWczcFdrZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI4JmlkPWJnaHIxOTY0Nzc=
+
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch4.webp" group-title="SPORTH TH",EPL 4 BK
+#EXTVLCOPT:http-referrer=https://dooball.tv/
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ballhd24liv_e1/trueepl4_480p/chunks.m3u8?nimblesessionid=132410379&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNCA5OjEyOjUxIEFNJmhhc2hfdmFsdWU9U1ExaUJmZjhPbHlxc3ZzY3h0SThsdz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI4JmlkPWJnaHI4MzEwNzg=
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch5.webp" group-title="SPORTH TH",EPL 5 BK
+#EXTVLCOPT:http-referrer=https://dooball.tv/
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ballhd24liv_e1/trueepl5_480p/chunks.m3u8?nimblesessionid=132410381&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNCA5OjEzOjQ5IEFNJmhhc2hfdmFsdWU9WkNnV2NBSTFRWUk0UUdKUGMrRjVxZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI4JmlkPWJnaHIyMzU4Mjg=
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch5.webp" group-title="SPORTH TH",EPL 5 BK
+#EXTVLCOPT:http-referrer=https://dooball.tv/
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ballhd24liv_e1/trueepl5_480p/chunks.m3u8?nimblesessionid=132410381&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNCA5OjEzOjQ5IEFNJmhhc2hfdmFsdWU9WkNnV2NBSTFRWUk0UUdKUGMrRjVxZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI4JmlkPWJnaHIyMzU4Mjg=
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch1.webp" group-title="SPORTH TH",EPL 1
+#EXTVLCOPT:http-referrer=https://168rich.tv
+https://cdn2.aws-live-streaming.com/168rich/epl1_sd/chunks.m3u8?nimblesessionid=4904288
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch2.webp" group-title="SPORTH TH", EPL 2
+#EXTVLCOPT:http-referrer=https://168rich.tv
+https://cdn2.aws-live-streaming.com/168rich/epl3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch3.webp" group-title="SPORTH TH", EPL 3
+#EXTVLCOPT:http-referrer=https://168rich.tv
+https://cdn2.aws-live-streaming.com/168rich/epl3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch4.webp" group-title="SPORTH TH", EPL 4
+#EXTVLCOPT:http-referrer=https://168rich.tv
+https://cdn2.aws-live-streaming.com/168rich/epl4/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch5.webp" group-title="SPORTH TH", EPL 5
+#EXTVLCOPT:http-referrer=https://168rich.tv
+https://cdn2.aws-live-streaming.com/168rich/epl5/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/in-ten3.png" group-title="SONY TV", SONY TEN 3
 https://cdn-la2.aws-stream.com/ondemand/od1/40244/video.m3u8
 #EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/in-ten2.png" group-title="SONY TV", SONT TEN 2
