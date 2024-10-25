@@ -201,43 +201,43 @@ http://212.102.60.10:80/FOX_Sports_1/tracks-v1a1/mono.m3u8
 https://ddy6.iosplayer.ru:443/tshttp/ddy6/premium101/mono.m3u8?token=none
 
 #EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub-2.png" group-title="INTER SPORT",SPORT KLUB 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 https://ddy6.iosplayer.ru:443/tshttp/ddy6/premium102/mono.m3u8?token=none
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/0swmzk1604074014.png" group-title="INTER SPORT",SPORT KLUB 3
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 https://ddy5.iosplayer.ru:443/tshttp/ddy5/premium103/mono.m3u8?token=none
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663979709.png" group-title="INTER SPORT",SPORT TV 1 POR
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 https://ddy5.iosplayer.ru:443/tshttp/ddy5/premium49/mono.m3u8?token=none
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663979801.png" group-title="INTER SPORT",SPORT TV 2 POR
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 https://ddy6.iosplayer.ru:443/tshttp/ddy6/premium74/mono.m3u8?token=none
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png" group-title="INTER SPORT",SUPER SPORT
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 https://ddy1.iosplayer.ru:443/tshttp/ddy1/premium56/mono.m3u8?token=none
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Novasports21.jpg/640px-Novasports21.jpg" group-title="INTER SPORT",NOVA SPORT
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 https://ddy6.iosplayer.ru:443/tshttp/ddy6/premium631/mono.m3u8?token=none
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/Astro%20supersport%201.png" group-title="INTER SPORT",ASTRO SUPERSPORT 1
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 https://ddy1.iosplayer.ru:443/tshttp/ddy1/premium123/mono.m3u8?token=none
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/Astro%20supersport%202.png" group-title="INTER SPORT",ASTRO SUPERSPORT 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 https://ddy5.iosplayer.ru:443/tshttp/ddy5/premium124/mono.m3u8?token=none
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/Astro%20supersport%203.png" group-title="INTER SPORT",ASTRO SUPERSPORT 3
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 https://ddy1.iosplayer.ru:443/tshttp/ddy1/premium125/mono.m3u8?token=none
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/Astro%20supersport%204.png" group-title="INTER SPORT",ASTRO SUPERSPORT 4
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 https://ddy1.iosplayer.ru:443/tshttp/ddy1/premium126/mono.m3u8?token=none
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/j2oudlzHKOUxNppfXbM7e3I0A0bBHawa97.png" group-title="INTER SPORT",BT SPORT 1
