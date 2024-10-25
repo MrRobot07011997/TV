@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-referrer=http://server2.ftpbd.net/
 http://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/Movie%20Series/Final%20Destination%20Collection%20%282000-2011%29%201080p%20BluRay%20%5BDual%20Audio%5D/Final%20Destination%203%202006%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%20DD%205.1%5D%20ESub.mp4
 #EXTINF:-1 tvg-logo="https://github.com/MrRobot07011997/TV/blob/main/gkplaceholder.png?raw=true" group-title="HINDI ", astro sport
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-referrer=http://ilovetoplay.xyz/
 https://ddy5.iosplayer.ru:443/tshttp/ddy5/premium124/mono.m3u8?token=none
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="SPORT TH VIP",BEIN 1 THAILAND
 #EXTVLCOPT:http-referrer=https://guwarpball.vip/
