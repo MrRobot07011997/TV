@@ -110,6 +110,10 @@ https://ddy5.iosplayer.ru:443/tshttp/ddy5/premium124/mono.m3u8?token=none
 #EXTVLCOPT:http-referrer=https://guwarpball.vip/
 https://cdn3.aws-live-streaming.com:446/gwb/bein1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/content/dam/tsn/en/home/images/2023/6/7/laliga-1-1970292-1686151604186.jpeg" group-title="SPORT TH VIP",LALIGA
+#EXTVLCOPT:http-referrer=https://guwarpball.vip/
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_7.m3u8
+
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="SPORT TH VIP",BEIN 1 THAILAND
 #EXTVLCOPT:http-referrer=https://guwarpball.vip/
 https://cdn3.aws-live-streaming.com:446/gwb/bein1/playlist.m3u8
