@@ -94,6 +94,9 @@ http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619f3f174f21
 #EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5" tvg-logo="" group-title="INTER SPORT",ARENA SPORT 5
 http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619f3f174f216b0bf41eb6aab26d34ceed2f/index.m3u8?token=ba0da5e04ce781f2459fed73bff99a080c4b911f24f1d6d27a58f348bb6161d0881f4f8332d449ddcf3d412dec71a5bbd878e4f124530efb4c9e0d947ac81974604af66712d7-5bdc1d651141e1492f7a35cfa8799ba6
 
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5" tvg-logo="" group-title="SPORT TH VIP",LALIGA
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_7.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://github.com/MrRobot07011997/TV/blob/main/gkplaceholder.png?raw=true" group-title="HINDI ", Sarfira (2024) Hindi 1080p WEBRip
@@ -102,6 +105,11 @@ http://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/Movie%20Series/Final%
 #EXTINF:-1 tvg-logo="https://github.com/MrRobot07011997/TV/blob/main/gkplaceholder.png?raw=true" group-title="HINDI ", astro sport
 #EXTVLCOPT:http-referrer=http://ilovetoplay.xyz/
 https://ddy5.iosplayer.ru:443/tshttp/ddy5/premium124/mono.m3u8?token=none
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="SPORT TH VIP",LALIGA
+#EXTVLCOPT:http-referrer=https://guwarpball.vip/
+https://cdn3.aws-live-streaming.com:446/gwb/bein1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="SPORT TH VIP",BEIN 1 THAILAND
 #EXTVLCOPT:http-referrer=https://guwarpball.vip/
 https://cdn3.aws-live-streaming.com:446/gwb/bein1/playlist.m3u8
