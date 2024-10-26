@@ -1,117 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="HUB SPORT 2" tvg-logo="https://rentapi.blackboxsys.net/images/png/sg-hubpremier01.png" group-title="INTER SPORT",HUB SPORT 2
-http://ipl.xxxcdn.online:8978/8be1228d2852985ebcbabc3e2bd87b1f4b64af718c39015e547f/index.m3u8?token=94ff579a89781af81d5fb99a766f84b7b8dcfc893eaff13e7df2175d5dc371f5a61ec6deb22c9697ce63b7d5228dc7420d4cd29d0b5acb77504d367b557f9a212a4b1bd2447a-81a0617f9aa0ad1bbbb8b8c306123f67
-#EXTINF:-1 tvg-ID="" tvg-name="HUB SPORT 1" tvg-logo="https://rentapi.blackboxsys.net/images/png/sg-hubpremier02.png" group-title="INTER SPORT",HUB SPORT 1
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bd87b1f4b64af718c39015e51/index.m3u8?token=fce7d737f9c1f8a5bdfaede9ad01fccaaf151406f2b57eac2399a6168410d5f0290138dfca7065f1c9a06af81182012b8f82aaa8c7b7d2de1075c5c25bb4609bca8cc928f8ca-61ca687af6d2bf3da994df448d83e27b
-
-#EXTINF:-1 tvg-ID="" tvg-name="HUB SPORT 3" tvg-logo="https://rentapi.blackboxsys.net/images/png/sg-hubpremier03.png" group-title="INTER SPORT",HUB SPORT 3
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bd87b1f4b64af718c39015e53/index.m3u8?token=524dc0570c7f0e3ccef1109cf7fa3414fc2640505d19ce3c760e228d566429a1c70c9ec501e4d21ee7dcdca6682325de389aef725f8398cebd39fc4dfaba9e8638bfbb866e03-17929c3dbac0df5fce77aabfe68096ad
-#EXTINF:-1 tvg-ID="" tvg-name="HUB SPORT 2" tvg-logo="https://rentapi.blackboxsys.net/images/png/sg-hubpremier01.png" group-title="INTER SPORT",HUB SPORT 2
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bd87b1f4b64af718c39015e52/index.m3u8?token=c988f9fa195d3f69abf0c4c2213e2ef37b966ec1b99d3413eaa7620f7751fd1f2a76428a193c3c3fe56a2caefd8e5388929129f8cfd7814588b6608494b6e4e775bb4e082e27-3647e210bc13d37aea6f9eb27fac4ce4
-#EXTINF:-1 tvg-ID="" tvg-name="HUB SPORT 4" tvg-logo="https://rentapi.blackboxsys.net/images/png/sg-hubpremier05.png" group-title="INTER SPORT",HUB SPORT 5
-http://ipl.xxxcdn.online:8978/8be1228d2852985ebcbabc3e2bd17d094678ac6e913f06523f0013/index.m3u8?token=71740492ced10940f6bd10610ab9f65922631fe1af65150662d0c7d9424404cb677341d66675f8a3097c779c4f96457253bc73a6da1c8e9b42ad7cccc739bcf44582cdd20ee0-e2ca1adfa9e534fe7ba6a8b0a2b3eecc
-
-#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 1" tvg-logo="https://rentapi.blackboxsys.net/images/png/fr-eurosport.png" group-title="INTER SPORT",EUROSPORT
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619b38004e336417f605bbcfbe674a/index.m3u8?token=1ac89e1419c2f57317b59b88775811bf8024e1b3a0d12ac00b3beb63ba036c76e4af5ee81ec46fee3a2f14a7186433c15509fd83af2e550a105c3556e4c14635539f43b995a7-7c606b513933c36c0bfc0c4242d2ae60
-#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2" tvg-logo="https://rentapi.blackboxsys.net/images/png/fr-eurosport2.png" group-title="INTER SPORT",EUROSPORT 2
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bd57b0f5b64af718c39015e52/index.m3u8?token=821b7abfafd57e14cac488aa5785f1ea9afa4030926dc246e64cc1a67153bc97835d0317266bad21c4f97df5d05f4e086f6c8371adb037bd7438e7137c472aea342fb60bbbca-06daf00363dcbd226d0555cbcf513319
-#EXTINF:-1 tvg-ID="" tvg-name="TSN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Tsn-logo.png/revision/latest?cb=20150709173924" group-title="INTER SPORT",TSN 1
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8618a3e1c5e516b6cef/index.m3u8?token=a5808de6f76b14cf2295af8e9170339ff57e747a2cb54c075e2410b99e31d446e02cbb034490f0c42cabe5a01366a05652706b1a8c2fb30488e213f355d6dfaca2e13e72fd30-8f41eab904fd94e24d778a8d681c094c
-#EXTINF:-1 tvg-ID="" tvg-name="TSN 2" tvg-logo="" group-title="INTER SPORT",TSN 2
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8618a3e1c5e526b6cef0e879d/index.m3u8?token=d36dbff645eef209b77e311caca4c05a0875bafc1744f9bb468fc18b0d9f94a859b816232146c04c4e58ed0ffeff75db93889e60d8df1697bd1539a1528a92d66082b5daf3b4-936ad7cf33f229ba099b2e703e46371b
-#EXTINF:-1 tvg-ID="" tvg-name="TSN 3" tvg-logo="" group-title="INTER SPORT",TSN 3
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8618a3e1c5e536b6cef/index.m3u8?token=47bce4b8c1d6b843735d35426509e62391002a95ea9344270b5928d7a7975f8fedd60ece73afdd020035bec6ac20c82b48d95928035a31be804c69e2fa5b5d792424cca19e3a-5a685d1cdf71a1862af28de2a94d917f
-#EXTINF:-1 tvg-ID="" tvg-name="TSN 4" tvg-logo="" group-title="INTER SPORT",TSN 4
-#EXTINF:-1 tvg-ID="" tvg-name="TSN 5" tvg-logo="" group-title="INTER SPORT",TSN 5
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8618a3e1c5e556b6cef0e879d/index.m3u8?token=81e96d0215f7e55c9418e0b2dbeadb20669400c07a8010d3deb3d5b99ba5e4d3155cebb26faf8dd00685721e204e510e6825d0f18705acaaf83ff7ac563b2ebbe0d11a7d63c9-05ac574d10ee0ec4b6f72008ba948f68
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN 1" tvg-logo="" group-title="INTER SPORT",ESPN 1
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619b3e024f3f0013fb3287/index.m3u8?token=377fa219fc7b116dea413025371645e7f744e8604749761b686eb91b80d631662e3e268a0ed4c8c8d013564ed308e6dc01e0d14adb0497c67f4a98a7ae0798ed31db642f5d19-672a52f5b0b72ed9ab7e3e94e2c5ad13
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2" tvg-logo="" group-title="INTER SPORT",ESPN 2
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619b3e024f3f0607901a/index.m3u8?token=acd6f6e61bdea350c981697d6c3bc836840902761522d822144f8a469847a76d920f473be801ad63265ffb8ce7b83e061b495e32bf018e77851b1571041879296b6244aeb442-2caed0fc171dae6dc34993cfecebdd51
-#EXTINF:-1 tvg-ID="" tvg-name="TNT 1" tvg-logo="" group-title="INTER SPORT",TNT 1
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619c390d52307b0af002bbccbe064a/index.m3u8?token=912e808fc0acc4aef0c9eb6841437576c6206be196db795295f62e722bed766773f52f80183de89a0168cbc7633b9d0a5bb4752f94bb5b54a46e07b95832ff11a8513513480c-9fd12cd91213dbc497fffa799c004ace
-#EXTINF:-1 tvg-ID="" tvg-name="TNT 2" tvg-logo="" group-title="INTER SPORT",TNT 2
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619c390d52307b0af002bbccbe064a/index.m3u8?token=72305bf00fea4e6bab7de28c9fbc2ff8090d3f7466a03ba93055ff13b54c261013281102a03b19e2c6ddbb1805c344dc5ca981a7c49f5adc9ac98079e0133af9fef6c905edb1-a6c6a1ddd81a33bcfc738f3616c386ff
-#EXTINF:-1 tvg-ID="" tvg-name="TNT 3" tvg-logo="" group-title="INTER SPORT",TNT 3
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619c390d52307b0af002bbcdbe064a/index.m3u8?token=b6740a92307d2b6e304c986a2d3ab9377310e43dc17c6963c2cbd176d1475cc943fdb8acf60d91fb12e98647db3f4bb8c21ffe1239c9da690fe6d728e12c5b344a9962a674b4-f2f215843aca76cfe4d4223f578e686b
-
-#EXTINF:-1 tvg-ID="" tvg-name="TNT 4" tvg-logo="" group-title="INTER SPORT",TNT 4
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619c390d44336416fb65af/index.m3u8?token=31cd32344469c5f9feac8903b407bd7332c5e894850f5c8875152e280d4bd5370e74664a51b56bfdcfcdc3500fe84cb4914020a33f52110d8448cd49f36cbfe0fe02b2847392-14637e0aee786f47b69cf7d462ce4a9a
-#EXTINF:-1 tvg-ID="" tvg-name="SUPER FOOTBALL" tvg-logo="" group-title="INTER SPORT",SUPER FOOTBALL
-http://it-af.xxxcdn.online:8373/8be1228d2852985ebcbabc3e2bd168024767b06c8a32015430710af701abacb56d47deea3f68aaefaea7f84e/index.m3u8?token=7726570b14639d9876fa7034759c36cde2327d807accb277faa54ff28c156aaec2438ca4abe5dd445498fe1f50f45d5f42e4156773f5889e1faaa0016cde45aaab29f9934f99-cdf6bc3d3fae3376c9b6b18d5afcb998
-#EXTINF:-1 tvg-ID="" tvg-name="SUPER FOOTBALL" tvg-logo="" group-title="INTER SPORT",SUPER FOOTBALL
-http://it-af.xxxcdn.online:8373/8be1228d2852985ebcbabc3e2bd168024767b06c8a32015430710af701abacb56d47deea3f68aaefaea7f84e/index.m3u8?token=313a98cf1faa5754c4b859f057b64d0189a00c3beee6a3abf7345c6d00fa356a5d162a7812cc689a6b5d51046a23381dc8b0845f468bccd167b0ead2c225409d50710784050a-8afcb869db3bd132c34605060f1207a0
-#EXTINF:-1 tvg-ID="" tvg-name="SUPER FOOTBALL LALIGA" tvg-logo="" group-title="INTER SPORT",SUPER FOOTBALL LALIGA
-http://it-af.xxxcdn.online:8373/8be1228d2852985ebcbabc3e2bd168024767b06c8a32015430710af701abacb56d4dd0fa2763ace2bdb0f4/index.m3u8?token=4d18d6a19bf1ee052ca83a52aa362218c2ddb951ec763d3bb7437d998f28494f8ba63c6c1a62409a3a77e1f223dcdb5d06bd5f04d0bfc57f53f17bb335df70511a8ee87e365d-1420bacacf5e7d9eee69ffa13c85f845
-#EXTINF:-1 tvg-ID="" tvg-name="SUPER FOOTBALL EPL" tvg-logo="" group-title="INTER SPORT",SUPER FOOTBALL EPL
-http://it-af.xxxcdn.online:8373/8be1228d2852985ebcbabc3e2bd168024767b06c8a32015430710af701abacb56d51c3e02663aef1bdb4f54b41bd6c5f803a/index.m3u8?token=22d5aec678cbd0c6c135fad6f12e6d6621b06f7f06ad84f72ee0ec0ba69479301e29654c7d315e6bdacf7fbd0306ee696d9be5ae96e923036f1a97c7f6ced5c053280fbb8d23-9295f7f93085eba7b3fa9a34f85331e4
-#EXTINF:-1 tvg-ID="" tvg-name="ASTRO SPORT 1" tvg-logo="" group-title="INTER SPORT",ASTRO SPORT 1
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bd17d094678a06d8b3d17533f6708eb03b0adbe03/index.m3u8?token=dbe3512970da45c27b919c197c47665d79cf9f62f96f808b0cb11937cd97dffaa826c67bb8b03bcf7e160a6ce340c623484b52c306fc93f55da4418327b7673ab5cafbcc87aa-33e6ab6d96b1617a8b02c2b369d36f1a
-#EXTINF:-1 tvg-ID="" tvg-name="ASTRO SPORT 2" tvg-logo="" group-title="INTER SPORT",ASTRO SPORT 2
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bd17d094678a06d8b3d17533f6708eb03b0adbe00/index.m3u8?token=1e08d28dddf80ad70fe927f419cc03bc307271498eb80f97f1db1e5141608ff26abf481b83f7aca02b942b6cb9a65c25910ad984569c3e8d5babad909d24325b3a138fe9756f-eafede5565b718e4a3f11696c7e2fdd3
-#EXTINF:-1 tvg-ID="" tvg-name="ASTRO SPORT 3" tvg-logo="" group-title="INTER SPORT",ASTRO SPORT 3
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bd17d094678a06d8b3d17533f6708eb03b0adbe01/index.m3u8?token=5682ca6b557dd11e0cea8b1079ea94ea2ec224dd69bbcd42f9e4bff62f18c6d851bab0d203180d8f182edf156d277973796af2fcc52bf69c133a56fff4987215ba1c2e80ed1f-d5c0ec16ccc405d16657e8732605ac35
-#EXTINF:-1 tvg-ID="" tvg-name="ASTRO SPORT 4" tvg-logo="" group-title="INTER SPORT",ASTRO SPORT 4
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bd17d094678a06d8b3d17533f6708eb03b0adbe06/index.m3u8?token=85dbc4a619a73a89b4a8dc32f41480fe28690811ba166053ae3537d312286feb6bad6dacd7cec9b74e9d637a252423cf9fa6704298570897be28faddaf2eb804f2592cc695ce-92cb267216017c3f01946bad7149c419
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT US" tvg-logo="" group-title="INTER SPORT",BEIN SPORT US
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619c281b4f3f6708eb03b0adbe6752d0fa5f61/index.m3u8?token=fe0b663a79e0fe852d8a5678c147db92bc1e7ac96a010d719ce5db807be3bb9c61dfe0cbd104e779d4de18de5ce07daaa6606e1b7b0f7433e7119bb58905af50b866e1a3f51b-6641d49bcafe1037be00c0c80c80d8d1
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 3" tvg-logo="" group-title="INTER SPORT",BEIN SPORT 3
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619c281b4f3f6708eb03b0adbe6752d0fa5f61/index.m3u8?token=fe0b663a79e0fe852d8a5678c147db92bc1e7ac96a010d719ce5db807be3bb9c61dfe0cbd104e779d4de18de5ce07daaa6606e1b7b0f7433e7119bb58905af50b866e1a3f51b-6641d49bcafe1037be00c0c80c80d8d1
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 4" tvg-logo="" group-title="INTER SPORT",BEIN SPORT 4
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bd26b145a68ac6e913f06523f0007f102a5a1a976/index.m3u8?token=a5022bbe2435ba9f1b56643cd8a5e6fe6405aa5a064e0bbb3029806849f11ebec896c5b5d1eb0692ae2862b4fdb6bf87abd20dad2e5a6937ec3dfd8ccbf14602c7a607d4a829-0a4db2b7c74aaf956fc3f1b8d99cec2a
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 5" tvg-logo="" group-title="INTER SPORT",BEIN SPORT 5
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bd26b145a68ac6e913f06523f0107e219a0/index.m3u8?token=015018b36433d041a7739626715a4e57e2b3725cf74e8229fac073b22472359b96158cce019e2f12538e85265cb45fb4a9b01bed58c26f9cb2159cda8e432b1e8e7f9a8a8a8e-fd85f755f28dee1fed3ac7cf17da7473
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 6" tvg-logo="" group-title="INTER SPORT",BEIN SPORT 6
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bd26b145a68ac6e913f06523f0207e219a0/index.m3u8?token=a76ac4a725905f600f0088373e1e767d0fb4304dd3c6bb60e933312503db7e03353096773cc6caec47db33cecd89b6c63433c42ec239b96718e698fa1b0f76d15c6f0fc10d0e-6ea09c0dfe6cbc47a6fe75e725b90262
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 7" tvg-logo="" group-title="INTER SPORT",BEIN SPORT 7
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bd26b145a68ac6e913f06523f0307e219a0/index.m3u8?token=548d0158f0c6d168a8b1dd715b4068bf44795ed27877c8e9b5a163cff1e7c437c94b88fab866dba5f72b2238635addfce284faa3080a90d9258bfcef696934a6006f707c9cbe-7f0f2e2a59d7951de5f0b71a4724fcbb
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 8 USA" tvg-logo="" group-title="INTER SPORT",BEIN SPORT 8 USA
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bd26b145a68ac6e913f06523f0c07f102/index.m3u8?token=f216989bce23292e9d0fa0f7393c789cddffe87ebd88d1239defcf41afabdce0fd40437dbded5830fff5d3298d2a6542f7d16609bf984136a2afd3b791e3f98c9793d05cadd5-951e97a0cfd6b61fb196446888ae8bce
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT EXTRA" tvg-logo="" group-title="INTER SPORT",BEIN SPORT EXTRA
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bd26b145a68ac6e913f06523f6c0cf610bbabb2735ed7ed2f/index.m3u8?token=248497b4ef333f8fa794ef89431a473e4ef82aa33db1cac1436ba3afbbcbca71450f71849633f06c9871dd39d4b15f86f69c8c817946df91e169ba925091a69b472d610844bd-8c1d1f05678b37507ca447ea500b87c3
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT 1" tvg-logo="" group-title="INTER SPORT",SKY SPORT 1
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc365044b64af718c39015e2e6e07950ea2b6a5/index.m3u8?token=f2afd1cc5a9f7f45f5c60632b9637a76968d0ee02e8de6e67f115a2246e03e0ad80a840a6ce5ff28a1d2f95ced0d3b3e0ceb15908328603ce8f232fb10f211b6ade19b150a5c-720d7e5eb27c50ffd5ce099ce03a72f9
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT 2" tvg-logo="" group-title="INTER SPORT",SKY SPORT 2
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc365044b64af718c39015e2e6e07960ea2b6a5/index.m3u8?token=21f2e326ccdba4a9c0f04f0a77485e80de3d0c707ef054bf60f7b67d939d3a1ec7e6d56f6cf0849129769cefd7f56f3ef152e077479dbbb7c5a1b97dd6a6013fa49efb14834f-26b78389990d685c0092160cc473d672
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT EPL" tvg-logo="" group-title="INTER SPORT",SKY SPORT EPL
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc365044b64af718c39015e30661de918a1acbe7e44d0e23e6fb4e5aabc/index.m3u8?token=12d8e3aca0cba901aed01c184a4b45cc89efdc29694523b36be26e01f440bc3e4cd4413a5033653b5a0e34459ad6dad6053ccca706121e9b1e0e8cdb7965b8cc78c84e250604-41286b035a75288c0acebc9884247f89
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT MAIN EVENT" tvg-logo="" group-title="INTER SPORT",SKY SPORT MAIN EVENT
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8618d260b5e336417f605b7a1ac7348dffa2e7caeedb6a7f84e/index.m3u8?token=d7093790f9d9aac9246caf07f6707bcdd7ce8b8c15d0d6d27182577876eb66b95c862b4bf0df1c6b4e2979cc3ffbe5ddf163048a8ced0a59b7b39d4dc285c3f5713923f3144a-37bad822f3b47f5b9db70549b548380b
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT FOOTBALL" tvg-logo="" group-title="INTER SPORT",SKY SPORT FOOTBALL
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8618d260b5e336417f605b7a1a77d4ec5e72a66a7fcaabc/index.m3u8?token=3a4df15472d83c3bb1e9cdaf5e45408ab4e4f4f2394f913ca97b6e2d3b3508019b90892bc200284425e3eccced25252b61dc3ab9b3ec8955b2aae27ae55948eb169458d371eb-5085222bf1d18f14d6d2308652d9fb20
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT CRICKET" tvg-logo="" group-title="INTER SPORT",SKY SPORT CRICKET
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8618d260b5e336417f605b7a1a26048d2ee2e7eb4eba6/index.m3u8?token=3a3cbf0fdda512546afdb48696bed2acffe24397d991f929c417e1a3defd489244dddf96e01352b19af6b2ea8a6f6a754a427daaec10447d57ee532b85c5beac68d74f6cffe0-ab1fe66d6fd5fca5583bf4950e8f24c0
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1" tvg-logo="" group-title="INTER SPORT",ARENA SPORT 1
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619f3f174f216b0bf41eb6aabe035ed9e1/index.m3u8?token=8d237e09a326a39b230f56cdac4fb1a2dca2f1e6522c05a1df2ac32b258677cb2f9262bcfb9b0eadd2cdfc61d8ad23b456a9e7048164729b9313d436879c0261a79161e89f12-d06a8827292484a7bcabe319d9851975
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2" tvg-logo="" group-title="INTER SPORT",ARENA SPORT 2
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619f3f174f216b0bf41eb6aabe005ed9e1/index.m3u8?token=e18dc45c9c11d831119369aa88d651e7f35da94398cf68e6955e4ea6c59a048619adcb92f86c4d945a0d29668296bfb52348714d09ea34d71dfff18f9537c7dba4490dc568f3-ce4bb843cfe3cef59d8670ff170a18ac
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3" tvg-logo="" group-title="INTER SPORT",ARENA SPORT 3
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619f3f174f216b0bf41eb6aabe015ed9e1/index.m3u8?token=8b4c5ab1ff32dc14a3875d24cba6c1aff80b90078ea0d308ea252e0b6914e6e76a3daa804e8d7abf3e887430c4ce26c4a603208b501a7979d58ba5aedc85915fcd25193bfc60-eb06ebef0d43e5844b18ebf3519d8b1b
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4" tvg-logo="" group-title="INTER SPORT",ARENA SPORT 4
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619f3f174f216b0bf41eb6aab26d35ceed2f/index.m3u8?token=84dabfed6e6f8eaee0f1a53c6adb6a157ef2b17c4d2303f31f3c2475dbbc0c933bf22a5184db6b3d41f40a389652e570dd8d08f7a9c4c2c55e1f9f531977a1a63565f4e2880d-15a425dc702d8f739df816c7ef30f43b
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5" tvg-logo="" group-title="INTER SPORT",ARENA SPORT 5
-http://spr.xxxcdn.online:2800/8be1228d2852985ebcbabc3e2bc27a025b65b8619f3f174f216b0bf41eb6aab26d34ceed2f/index.m3u8?token=ba0da5e04ce781f2459fed73bff99a080c4b911f24f1d6d27a58f348bb6161d0881f4f8332d449ddcf3d412dec71a5bbd878e4f124530efb4c9e0d947ac81974604af66712d7-5bdc1d651141e1492f7a35cfa8799ba6
-
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5" tvg-logo="https://cdn.cookielaw.org/logos/f99d5762-5a8e-4e1e-b9e9-e5c54ec8ea01/e8656d4c-a096-4422-8d3d-afa2db7d5869/a2ff04ec-25ed-4e09-a1b8-c1fa71c9f911/RGB_Logotipo_LALIGA_PLUS_coral.png" group-title="SPORT TH VIP",LALIGA
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_7.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/MrRobot07011997/TV/blob/main/gkplaceholder.png?raw=true" group-title="HINDI ", Sarfira (2024) Hindi 1080p WEBRip
-#EXTVLCOPT:http-referrer=http://server2.ftpbd.net/
-http://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/Movie%20Series/Final%20Destination%20Collection%20%282000-2011%29%201080p%20BluRay%20%5BDual%20Audio%5D/Final%20Destination%203%202006%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%20DD%205.1%5D%20ESub.mp4
-#EXTINF:-1 tvg-logo="https://github.com/MrRobot07011997/TV/blob/main/gkplaceholder.png?raw=true" group-title="HINDI ", astro sport
-#EXTVLCOPT:http-referrer=http://ilovetoplay.xyz/
-https://ddy5.iosplayer.ru:443/tshttp/ddy5/premium124/mono.m3u8?token=none
-
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="SPORT TH VIP",LALIGA
 #EXTVLCOPT:http-referrer=https://guwarpball.vip/
 https://cdn3.aws-live-streaming.com:446/gwb/bein1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tsn.ca/content/dam/tsn/en/home/images/2023/6/7/laliga-1-1970292-1686151604186.jpeg" group-title="SPORT TH VIP",LALIGA
-#EXTVLCOPT:http-referrer=https://guwarpball.vip/
+#EXTVLCOPT:http-referrer=""
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_7.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="SPORT TH VIP",BEIN 1 THAILAND
