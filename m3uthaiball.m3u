@@ -87,50 +87,7 @@ https://cdn1.googlecdn.live/dooballx/epl1_sd/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://s3.dooflixtv.com/assets/images/tv/sport/truepremiere2.png" group-title="SPORT TH BACKUP",EPL 2 VIP
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/epl2/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://s3.dooflixtv.com/assets/images/tv/sport/truepremiere3.png" group-title="SPORT TH BACKUP",EPL 3 VIP
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/epl3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.dooflixtv.com/assets/images/tv/sport/truepremiere4.png" group-title="SPORT TH BACKUP",EPL 4VIP BK
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/epl4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.dooflixtv.com/assets/images/tv/sport/truepremiere5png" group-title="SPORT TH BACKUP",EPL 5VIP
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/epl5playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="SPORT TH BACKUP",BEIN 1 THAILAND
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/bein1playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1690843424.png" group-title="SPORT TH BACKUP",BEIN 2 THAILAND
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/bein2playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663980670.png" group-title="SPORT TH BACKUP",BEIN 3 THAILAND
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/bein3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1692816640.png" group-title="SPORT TH BACKUP",BEIN 4 THAILAND
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/bein4playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1693290376.png" group-title="SPORT TH BACKUP",BEIN 5 THAILAND
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/bein5playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1694719513.png" group-title="SPORT TH BACKUP",BEIN 6 THAILAND
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/bein6playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1694719622.png" group-title="SPORT TH BACKUP",BEIN 7 THAILAND
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/bein7playlist.m3u8
 
 
 
