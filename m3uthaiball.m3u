@@ -1,8 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://c.files.bbci.co.uk/08da/live/acf4d340-a983-11ee-bc2f-cb5579b90709.png" group-title="LIVE TODAY ",arsenal vs liverpool
-#EXTVLCOPT:http-referrer=https://www.dooflixtv.com/
-https://r3-sn-5fo-c37ed248.googleuservideo.com:8443/Premier1_720/index.m3u8?token=c2VydmVyX3RpbWU9MTAvMTYvMjAyNCAwMTo0MDozNiBBTSZoYXNoX3ZhbHVlPVU2b1J3VW5OaHdub1pUbjJTRi9YdGc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0wJmlkPXdlYi0xMzg1NzU=
+
 
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="SPORT TH VIP",LALIGA
