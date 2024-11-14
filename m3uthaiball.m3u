@@ -3,6 +3,10 @@
 #EXTVLCOPT:http-referrer=https://ballsod.vip/
 https://switch.thaim3u.com/p1gtm1nG34jcOdziNNPs9mVG4tzJrkeu/Nova%20Sports%20Bulgaria/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFATCzjMPvv4sWeGL8tKEfWaSLzI1K8OH2-Q&s" group-title="LIVE" ,IRAQ VS JORDEN
+#EXTVLCOPT:http-referrer=https://ballsod.vip/
+https://switch.thaim3u.com/p1gtm1nG34jcOdziNNPs9mVG4tzJrkeu/Sport%20Klub%204%20Serbia/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/rawat-islamabad-29-september-2024-260nw-2537490127.jpg" group-title="LIVE" ,thailand vs lebanon
 #EXTVLCOPT:http-referrer=
