@@ -24,6 +24,10 @@ https://live444.xyz/stream/22/index.m3u8
 #EXTVLCOPT:http-referrer=https://joyousplay.xyz/
 https://ddy6.iosplayer.ru:443/tshttp/ddy6/premium94/mono.m3u8?token=none
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/rawat-islamabad-29-september-2024-260nw-2537490127.jpg" group-title="LIVE" ,BIGG BOSS 18 LIVE 
+#EXTVLCOPT:http-referrer=
+http://176.119.29.52:80/live.ts?channelId=57&uid=10213&deviceMac=00:1A:79:E1:60:26
+
 
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="SPORT TH VIP",LALIGA
