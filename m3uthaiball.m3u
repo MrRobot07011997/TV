@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFATCzjMPvv4sWeGL8tKEfWaSLzI1K8OH2-Q&s" group-title="LIVE" ,IRAQ VS JORDEN AR
+#EXTVLCOPT:http-referrer=
+https://muz.cyz24.online/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFATCzjMPvv4sWeGL8tKEfWaSLzI1K8OH2-Q&s" group-title="LIVE" ,IRAQ VS JORDEN AR
 #EXTVLCOPT:http-referrer=https://atm.mo3alimee.com/
