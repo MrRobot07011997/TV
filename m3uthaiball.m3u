@@ -1,9 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/rawat-islamabad-29-september-2024-260nw-2537490127.jpg" group-title="LIVE" ,BIGG BOSS 18 LIVE 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454911883408916482/0aMVrCup_400x400.jpg" group-title="LIVE" ,BIGG BOSS 18 LIVE 
 #EXTVLCOPT:http-referrer=
 http://176.119.29.52:80/live.ts?channelId=57&uid=10213&deviceMac=00:1A:79:E1:60:26
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://preview.redd.it/jake-paul-vs-mike-tyson-discussion-v0-7w8as1266nzd1.jpeg?width=1080&crop=smart&auto=webp&s=6a89924e824dd0d539d058dd1cfbd6b3586ea693",mike tyson vs jake paul
+https://sparkforge.store/live/box/chunks.m3u8?bongls.com
 
 
 
