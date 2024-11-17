@@ -5,8 +5,7 @@
 #EXTVLCOPT:http-referrer=
 http://176.119.29.52:80/live.ts?channelId=57&uid=10213&deviceMac=00:1A:79:E1:60:26
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://preview.redd.it/jake-paul-vs-mike-tyson-discussion-v0-7w8as1266nzd1.jpeg?width=1080&crop=smart&auto=webp&s=6a89924e824dd0d539d058dd1cfbd6b3586ea693",mike tyson vs jake paul
-https://100.zortstream.shop/601/index.m3u8
+
 
 
 
@@ -197,6 +196,30 @@ https://cdn2.aws-live-streaming.com/168rich/epl4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch5.webp" group-title="SPORTH TH", EPL 5
 #EXTVLCOPT:http-referrer=https://168rich.tv
 https://cdn2.aws-live-streaming.com/168rich/epl5/chunks.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT TU 1" tvg-logo="https://dookeela.live/uploads/1664502528.png" group-title="INTER SPORT",BEIN SPORT TU 1
+https://100.zortstream.shop/601/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT TU 2" tvg-logo="https://dookeela.live/uploads/1685036091.png" group-title="INTER SPORT",BEIN SPORT TU 2
+https://100.zortstream.shop/602/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT TU 3" tvg-logo="https://dookeela.live/uploads/1664581228.png" group-title="INTER SPORT",BEIN SPORT TU 3
+https://100.zortstream.shop/603/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT TU 4" tvg-logo="https://dookeela.live/uploads/1664581241.png" group-title="INTER SPORT",BEIN SPORT TU 4
+https://100.zortstream.shop/604/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT TU 5" tvg-logo="https://api.rentm3u8.com/images/png/hd-bein5.png" group-title="INTER SPORT",BEIN SPORT TU 5
+https://100.zortstream.shop/605/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV1" tvg-logo="https://api.rentm3u8.com/images/png/pt-sporttv1.png" group-title="INTER SPORT",SPORT TV1
+http://216.227.145.114:8000/SPORT_TV1_ALTERNATIVE/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV2" tvg-logo="https://api.rentm3u8.com/images/png/pt-sporttv2.png" group-title="INTER SPORT",SPORT TV2
+http://216.227.145.114:8000/SPORT_TV2_ALTERNATIVE/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV3" tvg-logo="https://api.rentm3u8.com/images/png/pt-sporttv3.png" group-title="INTER SPORT",SPORT TV3
+http://216.227.145.114:8000/SPORT_TV3/index.m3u8?token=test
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV4" tvg-logo="https://api.rentm3u8.com/images/png/pt-sporttv4.png" group-title="INTER SPORT",SPORT TV4
+http://216.227.145.114:8000/SPORT_TV4/index.m3u8?token=test
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV5" tvg-logo="https://api.rentm3u8.com/images/png/pt-sporttv5.png" group-title="INTER SPORT",SPORT TV5
+http://216.227.145.114:8000/SPORT_TV5/index.m3u8?token=test
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Spor-tv.jpg/revision/latest?cb=20230224172124" group-title="INTER SPORT",SPORT TV6
+http://216.227.145.114:8000/SPORT_TV6/index.m3u8?token=test
+
 
 
 #EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/in-ten3.png" group-title="SONY TV", SONY TEN 3
