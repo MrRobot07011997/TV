@@ -9,6 +9,9 @@ http://176.119.29.52:80/live.ts?channelId=57&uid=10213&deviceMac=00:1A:79:E1:60:
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="SPORT TH VIP",LALIGA
 #EXTVLCOPT:http-referrer=https://guwarpball.vip/
 https://cdn3.aws-live-streaming.com:446/gwb/bein1/playlist.m3u8
@@ -6591,6 +6594,501 @@ http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2017/Wedding-Anniversary-%282017%2
 #EXTINF:-1 tvg-logo="https://github.com/MrRobot07011997/TV/blob/main/gkplaceholder.png?raw=true" group-title="HINDI MOVIE 2017", What-Will-People-Say-(2017)-Hindi-1080p
 #EXTVLCOPT:http-referrer=http://server3.ftpbd.net/
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2017/What-Will-People-Say-%282017%29-Hindi-1080p/What%20Will%20People%20Say%202017%201080p%20NF%20WEB-DL%20DD%2B%205.1%20H264-NG.mp4
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" group-title="ramayana",EP_1
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201001
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_2
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201002
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_3
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201003
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_4
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201004
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_5
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201005
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_6
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201006
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_7
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201007
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_8
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201008
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_9
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201009
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_10
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201010
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_11
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201011
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_12
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201012
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_13
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201013
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_14
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201014
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_15
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201015
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_16
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201016
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_17
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201017
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_18
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201018
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_19
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201019
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_20
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201020
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_21
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201021
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_22
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201022
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_23
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201023
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_24
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201024
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_25
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201025
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_26
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201026
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_27
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201027
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_28
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201028
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_29
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201029
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_30
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201030
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_31
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201031
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_32
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201032
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_33
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201033
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_34
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201034
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_35
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201035
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_36
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201036
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_37
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201037
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_38
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201038
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_39
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201039
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_40
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201040
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_41
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201041
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_42
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201042
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_43
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201043
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_44
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201044
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_45
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201045
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_46
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201046
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_47
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201047
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_48
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201048
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_49
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201049
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_50
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201050
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_51
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201051
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_52
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201052
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_53
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201053
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_54
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201054
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_55
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201055
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_56
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201056
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_57
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201057
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_58
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201058
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_59
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201059
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_60
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201060
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_61
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201061
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_62
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201062
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_63
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201063
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_64
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201064
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_65
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201065
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_66
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201066
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_67
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201067
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_68
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201068
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_69
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201069
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_70
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201070
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_71
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201071
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_72
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201072
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_73
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201073
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_74
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201074
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_75
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201075
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_76
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201076
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_77
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201077
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_78
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201078
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_79
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201079
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_80
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201080
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_81
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201081
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_82
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201082
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_83
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201083
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_84
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201084
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_85
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201085
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_86
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201086
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_87
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201087
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_88
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201088
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_89
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201089
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_90
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201090
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_91
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201091
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_92
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201092
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_93
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201093
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_94
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201094
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_95
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201095
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_96
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201096
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_97
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201097
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_98
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201098
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_99
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201099
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_100
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201100
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_101
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201101
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_102
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201102
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_103
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201103
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_104
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201104
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_105
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201105
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_106
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201106
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_107
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201107
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_108
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201108
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_109
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201109
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_110
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201110
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_111
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201111
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_112
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201112
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_113
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201113
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_114
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201114
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_115
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201115
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_116
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201116
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_117
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201117
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_118
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201118
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_119
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201119
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_120
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201120
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_121
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201121
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_122
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201122
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_123
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201123
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_124
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201124
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_125
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201125
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_126
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201126
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_127
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201127
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_128
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201128
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_129
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201129
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_130
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201130
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_131
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201131
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_132
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201132
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_133
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201133
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_134
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201134
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_135
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201135
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_136
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201136
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_137
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201137
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_138
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201138
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_139
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201139
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_140
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201140
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_141
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201141
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_142
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201142
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_143
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201143
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_144
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201144
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_145
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201145
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_146
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201146
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_147
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201147
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_148
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201148
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_149
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201149
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_150
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201150
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_151
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201151
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_152
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201152
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_153
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201153
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_154
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201154
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_155
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201155
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_156
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201156
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_157
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201157
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_158
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201158
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_159
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201159
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_160
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201160
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_161
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201161
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_162
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201162
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_163
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201163
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_164
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201164
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_165
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201165
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_166
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201166
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_167
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201167
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_168
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201168
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_169
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201169
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_170
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201170
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_171
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201171
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_172
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201172
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_173
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201173
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_174
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201174
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_175
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201175
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_176
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201176
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_177
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201177
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_178
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201178
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_179
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201179
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_180
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201180
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_181
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201181
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_182
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201182
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_183
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201183
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_184
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201184
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_185
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201185
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_186
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201186
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_187
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201187
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_188
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201188
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_189
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201189
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_190
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201190
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_191
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201191
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_192
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201192
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_193
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201193
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_194
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201194
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_195
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201195
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_196
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201196
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_197
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201197
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_198
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201198
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_199
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201199
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_200
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201200
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_201
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201201
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_202
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201202
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_203
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201203
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_204
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201204
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_205
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201205
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_206
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201206
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_207
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201207
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_208
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201208
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_209
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201209
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_210
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201210
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_211
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201211
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_212
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201212
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_213
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201213
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_214
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201214
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_215
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201215
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_216
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201216
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_217
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201217
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_218
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201218
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_219
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201219
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_220
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201220
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_221
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201221
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_222
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201222
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_223
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201223
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_224
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201224
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_225
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201225
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_226
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201226
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_227
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201227
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_228
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201228
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_229
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201229
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_230
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201230
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_231
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201231
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_232
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201232
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_233
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201233
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_234
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201234
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_235
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201235
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_236
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201236
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_237
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201237
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_238
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201238
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_239
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201239
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_240
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201240
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_241
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201241
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_242
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201242
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_243
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201243
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_244
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201244
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/16/93/41c65d09fe295ecd82310dbd225c9b8c_1705944927140_l_medium.jpg" tvg-logo="" group-title="ramayana",EP_245
+http://tv.cloudcdn.me:80/series/00:1A:79:3F:2D:40/SN_1732001230/334201245
+
 
 
 
