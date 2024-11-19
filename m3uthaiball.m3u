@@ -197,6 +197,21 @@ https://cdn2.aws-live-streaming.com/168rich/epl4/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://168rich.tv
 https://cdn2.aws-live-streaming.com/168rich/epl5/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TNT 1" tvg-logo="https://frontend-assets.clipsource.com/612dda2e469cb/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="INTER SPORT",TNT 1
+http://gcp-dash.ngslbs.com/TVD001/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-slAmiuwb0txewUaaJYccF2y_h9qjM3JSDw&s" group-title="INTER SPORT",TNT 2
+http://gcp-dash.ngslbs.com/TVD002/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT 3" tvg-logo="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" group-title="INTER SPORT",TNT 3
+http://gcp-dash.ngslbs.com/TVD003/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT 4" tvg-logo="https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png" group-title="INTER SPORT",TNT 4
+http://gcp-dash.ngslbs.com/TVD004/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT 5" tvg-logo="https://tv.assets.pressassociation.io/f25e3499-4757-57ac-90e7-cba823730841.png" group-title="INTER SPORT",TNT 5
+http://gcp-dash.ngslbs.com/TVD005/index.mpd
+
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT TU 1" tvg-logo="https://dookeela.live/uploads/1664502528.png" group-title="INTER SPORT",BEIN SPORT TU 1
 https://100.zortstream.shop/601/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT TU 2" tvg-logo="https://dookeela.live/uploads/1685036091.png" group-title="INTER SPORT",BEIN SPORT TU 2
