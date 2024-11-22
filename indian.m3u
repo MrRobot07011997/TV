@@ -1,0 +1,61 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454911883408916482/0aMVrCup_400x400.jpg" group-title="LIVE" ,BIGG BOSS 18 LIVE 
+#EXTVLCOPT:http-referrer=
+http://176.119.29.52:80/live.ts?channelId=57&uid=10213&deviceMac=00:1A:79:E1:60:26
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Colors tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/colors-hd-in.png?raw=true" group-title="INDIA",Colors tv
+http://109.61.81.147:2080/cdn2/4845/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Colors tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/colors-hd-in.png?raw=true" group-title="INDIA",Colors tv
+http://109.61.81.147:2080/cdn2/4876/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Aajtak " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/aaj-tak-hd-in.png?raw=true" group-title="INDIA",Aajtak 
+http://109.61.81.147:2080/cdn2/526/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Colors tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/colors-hd-in.png?raw=true" group-title="INDIA",Colors tv
+http://109.61.81.147:2080/cdn2/527/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Sony max 2 " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-max-2-hd-in.png?raw=true" group-title="INDIA",Sony max 2 
+http://109.61.81.147:2080/cdn2/528/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Utsav gold " tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/Utsav_Gold_Logo.jpg" group-title="INDIA",Utsav gold 
+http://109.61.81.147:2080/cdn2/529/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Utsav gold " tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/Utsav_Gold_Logo.jpg" group-title="INDIA",Utsav gold 
+http://109.61.81.147:2080/cdn2/4861/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Utsav gold " tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/Utsav_Gold_Logo.jpg" group-title="INDIA",Utsav gold 
+http://109.61.81.147:2080/cdn2/4871/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Zee cinema " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zee-cinema-hd-in.png?raw=true" group-title="INDIA",Zee cinema 
+http://109.61.81.147:2080/cdn2/4865/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Pitaraa " tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/66aa0832dae3c10001eb005b/picture" group-title="INDIA",Pitaraa 
+http://109.61.81.147:2080/cdn2/4860/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Star gold" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-gold-hd-in.png?raw=true" group-title="INDIA",Star gold
+http://109.61.81.147:2080/cdn2/4857/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Sony sab" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-sab-hd-in.png?raw=true" group-title="INDIA",Sony sab
+http://109.61.81.147:2080/cdn2/4869/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="B4u movies " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/b4u-movies-in.png?raw=true" group-title="INDIA",B4u movies 
+http://109.61.81.147:2080/cdn2/4828/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Mtv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/mtv-hd-plus-in.png?raw=true" group-title="INDIA",Mtv
+http://109.61.81.147:2080/cdn2/4837/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Star Bharat HD " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-bharat-in.png?raw=true" group-title="INDIA",Star Bharat HD 
+http://109.61.81.147:2080/cdn2/4846/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Zing" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zing-in.png?raw=true" group-title="INDIA",Zing
+http://109.61.81.147:2080/cdn2/516/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Zee cinema " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zee-cinema-hd-in.png?raw=true" group-title="INDIA",Zee cinema 
+http://109.61.81.147:2080/cdn2/522/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Zoom " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zoom-in.png?raw=true" group-title="INDIA",Zoom 
+http://109.61.81.147:2080/cdn2/532/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Star sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-2-in.png?raw=true" group-title="INDIA",Star sports 2
+http://109.61.81.147:2080/cdn2/512/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Ten sports " tvg-logo="https://www.nicepng.com/png/full/372-3722400_indias-leading-sports-network-ten-sports-unveils-ten.png" group-title="INDIA",Ten sports 
+http://109.61.81.147:2080/cdn2/510/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Ten sports " tvg-logo="https://www.nicepng.com/png/full/372-3722400_indias-leading-sports-network-ten-sports-unveils-ten.png" group-title="INDIA",Ten sports 
+http://109.61.81.147:2080/cdn2/519/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Star sports HINDI " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-in.png?raw=true" group-title="INDIA",Star sports HINDI 
+http://109.61.81.147:2080/cdn2/511/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Sony sports 1 " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-ten-1-hd-in.png?raw=true" group-title="INDIA",Sony sports 1 
+http://109.61.81.147:2080/cdn2/4863/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Sony sports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-ten-3-hd-in.png?raw=true" group-title="INDIA",Sony sports 3
+http://109.61.81.147:2080/cdn2/4872/video.m3u8?token=4444
+#EXTINF:-1 tvg-ID="" tvg-name="Sony sports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-ten-3-hd-in.png?raw=true" group-title="INDIA",Sony sports 3
+http://109.61.81.147:2080/cdn2/504/video.m3u8?token=4444
