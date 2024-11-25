@@ -11,7 +11,8 @@ http://176.119.29.52:80/live.ts?channelId=57&uid=10213&deviceMac=00:1A:79:E1:60:
 https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/epl1_sd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/in-ten3.png" group-title="SONY TV", SONY TEN 3
-http://apex01.keycdn.cc/TEN1/index.m3u8?token=4d719f408f1c38a4682009b02cbbe672
+#EXTVLCOPT:http-referrer=http://apex01.keycdn.cc/
+http://apex01.keycdn.cc/TEN1/index.m3u8
 
 
 
