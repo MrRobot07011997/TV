@@ -14,7 +14,7 @@ https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/epl1_sd/chunks.m3u8
 #EXTVLCOPT:http-referrer=http://apex01.keycdn.cc/
 http://apex01.keycdn.cc/TEN1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/in-ten3.png" group-title="SONY TV", SONY TEN 3
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/in-ten3.png" group-title="GK", SONY TEN 3
 #EXTVLCOPT:http-referrer=https://joyousplay.xyz/
 https://ddh1.iosplayer.ru:443/tshttp/ddh1/premium91/mono.m3u8?token=none
 
