@@ -13,6 +13,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125429&uid=10213&deviceMac=00:1A:79:E
 #EXTVLCOPT:http-referrer=
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=10213&deviceMac=00:1A:79:E1:60:26
 
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1695604346.png"group-title="LIVE",primasport3 ™ 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/primasport3
+
 
 
 #EXTINF:-1 tvg-logo="https://s3.dooflixtv.com/assets/images/tv/sport/truepremiere4.png" group-title="gokul",EPL 4 VIP BK
