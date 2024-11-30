@@ -5,6 +5,10 @@
 #EXTVLCOPT:http-referrer=
 http://176.119.29.52:80/live.ts?channelId=57&uid=10213&deviceMac=00:1A:79:E1:60:26
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454911883408916482/0aMVrCup_400x400.jpg" group-title="test Mac" ,Astro 
+#EXTVLCOPT:http-referrer=
+http://tv.cloudcdn.me:80/live.ts?channelId=125429&uid=10213&deviceMac=00:1A:79:E1:60:26
+
 
 #EXTINF:-1 tvg-logo="https://s3.dooflixtv.com/assets/images/tv/sport/truepremiere4.png" group-title="gokul",EPL 4 VIP BK
 #EXTVLCOPT:http-referrer=https://baadoball.com/
