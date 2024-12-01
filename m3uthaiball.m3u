@@ -9,6 +9,10 @@ http://176.119.29.52:80/live.ts?channelId=57&uid=10213&deviceMac=00:1A:79:E1:60:
 #EXTVLCOPT:http-referrer=
 http://tv.cloudcdn.me:80/live.ts?channelId=125429&uid=10213&deviceMac=00:1A:79:E1:60:26
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest?cb=20240319123538" group-title="LIVE" ,GXR
+#EXTVLCOPT:http-referrer=https://www.gxr.world/
+https://d3l6n7uiujhwxm.cloudfront.net/out/v1/5b541533e6d045fd8e87dbdf4dd59fe9/index.mpd
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest?cb=20240319123538" group-title="LIVE" ,sony ten 2
 #EXTVLCOPT:http-referrer=
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=10213&deviceMac=00:1A:79:E1:60:26
