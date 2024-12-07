@@ -5,6 +5,10 @@
 #EXTVLCOPT:http-referrer=
 http://176.119.29.52:80/live.ts?channelId=57&uid=10213&deviceMac=00:1A:79:E1:60:26
 
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_425_305" group-title="LIVE" ,NOW HK 1 
+#EXTVLCOPT:http-referrer=
+http://chunkymunky.site:8080/play/live.php?mac=00:1A:79:54:66:7B&stream=217369&extension=ts
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454911883408916482/0aMVrCup_400x400.jpg" group-title="LIVE" ,Astro 
 #EXTVLCOPT:http-referrer=
 http://tv.cloudcdn.me:80/live.ts?channelId=125429&uid=10213&deviceMac=00:1A:79:E1:60:26
