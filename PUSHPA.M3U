@@ -1,0 +1,8 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjJmMjJmYWMtNTQyYy00NzcxLWE5N2EtMTY5NjRhMGZmYjNlXkEyXkFqcGc@._V1_.jpg" group-title="LIVE" ,PUSHPA 2 
+#EXTVLCOPT:http-referrer=http://103.154.49.205/
+http://103.154.49.205/FTP/FTP2/Hindi%20Movies/2024/%20Pushpa%202%20-%20The%20Rule%20%282024%29/Pushpa%20The%20Rule%20Part%202%20%282024%29%201080p%20DVDRip.mp4
