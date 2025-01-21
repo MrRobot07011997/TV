@@ -1,10 +1,21 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://serialmaza.info/wp-content/uploads/2024/12/CID-Returns-310x165.jpg" group-title="CID NEW" ,CID EP 1
+#EXTVLCOPT:http-referrer=https://vikingf1le.us.to/
+https://rp.vikingfile.com/download/obPbDTXmyG/CID%20Returns%2021st%20December%202024.mp4
 
 #EXTINF:-1 tvg-logo="https://serialmaza.info/wp-content/uploads/2024/12/CID-Returns-310x165.jpg" group-title="CID NEW" ,CID EP 2
 #EXTVLCOPT:http-referrer=https://vikingf1le.us.to/
 https://rp.vikingfile.com/download/0YYS4GxzTI/CID%20Returns%2021st%20December%202024.mp4
+
+#EXTINF:-1 tvg-logo="https://serialmaza.info/wp-content/uploads/2024/12/CID-Returns-310x165.jpg" group-title="CID NEW" ,CID EP 3
+#EXTVLCOPT:http-referrer=https://vikingf1le.us.to/
+https://rp.vikingfile.com/download/LP3UgCZjOb/CID%20Returns%2028th%20December%202024.mp4
+
+#EXTINF:-1 tvg-logo="https://serialmaza.info/wp-content/uploads/2024/12/CID-Returns-310x165.jpg" group-title="CID NEW" ,CID EP 4
+#EXTVLCOPT:http-referrer=https://vikingf1le.us.to/
+https://du.vikingfile.com/download/HLHaLBNxbf/CID%20Returns%2029th%20December%202024.mp4
 
 
 
