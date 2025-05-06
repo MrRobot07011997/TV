@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://serialmaza.info/wp-content/uploads/2024/12/CID-Returns-310x165.jpg" group-title="NEW TEST" , movie
+#EXTVLCOPT:http-referrer=https://netfree2.cc/
+https://netfree2.cc/hls/81688854.m3u8?in=58c85fad06bae790073eb7711b68123b::df0ed30ae4e10de3527290dcbeda8d46::1746500798::ht
+
 
 #EXTINF:-1 tvg-logo="https://serialmaza.info/wp-content/uploads/2024/12/CID-Returns-310x165.jpg" group-title="CID NEW" ,CID EP 1
 #EXTVLCOPT:http-referrer=https://vikingf1le.us.to/
