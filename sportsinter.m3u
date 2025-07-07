@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="INTER SPORT",SSC EXTRA 2
+#EXTVLCOPT:http-referrer=https://netfree2.cc/
+https://netfree2.cc/hls/81506112.m3u8?in=8a0fde1a9e0dbc468e9ad8e5df5d7d65::22a66b83c2770898c756d10dbd2f5132::1751902477::ht
+
 #EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="INTER SPORT",SSC EXTRA 2
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 https://ddh1.iosplayer.ru:443/tshttp/ddh1/premium32/mono.m3u8?token=none
