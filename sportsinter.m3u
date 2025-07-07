@@ -1,16 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="INTER SPORT",SSC EXTRA 2
+#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="INTER SPORT",rp 3
 #EXTVLCOPT:http-referrer=https://netfree2.cc/
 https://netfree2.cc/hls/81506112.m3u8?in=8a0fde1a9e0dbc468e9ad8e5df5d7d65::22a66b83c2770898c756d10dbd2f5132::1751902477::ht
 
-#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="INTER SPORT",SSC EXTRA 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-https://ddh1.iosplayer.ru:443/tshttp/ddh1/premium32/mono.m3u8?token=none
+#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="INTER SPORT",ep 4
+#EXTVLCOPT:http-referrer=https://netfree2.cc/
+https://netfree2.cc/hls/81506113.m3u8?in=8a0fde1a9e0dbc468e9ad8e5df5d7d65::836a4818b7b61d7a0a740ceb4ee134b4::1751902987::ht
 
-#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="INTER SPORT",SSC EXTRA 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-https://ddh1.iosplayer.ru:443/tshttp/ddh1/premium133/mono.m3u8?token=none
+#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="INTER SPORT",ep 5
+#EXTVLCOPT:http-referrer=https://netfree2.cc/
+https://netfree2.cc/hls/81506114.m3u8?in=8a0fde1a9e0dbc468e9ad8e5df5d7d65::a212ffe8af1ca6c19e988f9867f66f36::1751903079::ht
+
+#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="INTER SPORT",ep 6
+#EXTVLCOPT:http-referrer=https://netfree2.cc/
+https://netfree2.cc/hls/81506115.m3u8?in=c355da38ef6afa8062a75c3d9b1aab0c::a4c5824ee4e28299323a5a101a8914e2::1751903118::ht
 
 #EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="INTER SPORT",SSC EXTRA 2
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
